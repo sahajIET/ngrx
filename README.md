@@ -1,4 +1,4 @@
-# NgRx Course
+# NgRx
 
 This is a 1-day course on NgRx.
 
